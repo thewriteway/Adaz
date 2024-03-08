@@ -1,5 +1,5 @@
 pywinrm==0.4.3
-requests==2.28.2
+requests==2.31.0
 msrest==0.7.1
 msrestazure==0.6.4
 ansible==7.1.0
