@@ -7,7 +7,7 @@ azure-cli==2.74.0
 packaging
 requests[security]
 xmltodict
-msgraph-sdk==1.25.0
+msgraph-sdk==1.30.0
 azure-cli-core==2.74.0
 azure-common
 azure-identity
