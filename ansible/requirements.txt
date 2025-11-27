@@ -3,7 +3,7 @@ requests==2.32.4
 msrest==0.7.1
 msrestazure==0.6.4.post1
 ansible==10.7.0
-azure-cli==2.75.0
+azure-cli==2.79.0
 packaging
 requests[security]
 xmltodict
