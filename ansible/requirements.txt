@@ -2,7 +2,7 @@ pywinrm==0.5.0
 requests==2.32.5
 msrest==0.7.1
 msrestazure==0.6.4.post1
-ansible==10.7.0
+ansible==12.2.0
 azure-cli==2.80.0
 packaging
 requests[security]
